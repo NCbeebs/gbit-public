@@ -48,4 +48,3 @@ The React-based frontend serves as the user interface layer, providing real-time
 - **Marketplace Interface**: Direct integration with smart contract functions for listing, purchasing, and making offers on tickets.
 - **Multi-environment Support**: Automatic configuration switching between local development, testnet, and mainnet deployments.
 
-The frontend architecture emphasizes gas efficiency by implementing smart caching, batch data fetching, and optimized re-rendering strategies. It provides comprehensive error handling and user feedback for all blockchain interactions, making the complex smart contract functionality accessible to users regardless of their technical expertise.
