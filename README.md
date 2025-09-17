@@ -1,5 +1,5 @@
 # gbit-public
-Currently deployed Golden Bit contract
+https://goldenbit.org/ Currently deployed Golden Bit contract
 ---
 
 ## Golden Bit - Project Summary
