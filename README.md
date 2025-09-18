@@ -35,15 +35,12 @@ Ethereum smart contracts provide the ideal foundation for this project through s
 - **Transparency and Trust**: All game logic, randomness generation, and fund distribution are publicly verifiable on-chain, eliminating concerns about manipulation or hidden mechanics.
 - **Decentralization**: No central authority controls the game flow or can interfere with outcomes, ensuring fair play for all participants.
 - **Programmable Money**: Smart contracts enable automatic fee distribution, escrow functionality, and complex trading mechanics without requiring trusted intermediaries.
-- **Global Accessibility**: Anyone with an Ethereum wallet can participate regardless of location, creating a truly global gaming experience.
-- **Immutable Rules**: Once deployed, game mechanics cannot be changed without community consensus, providing long-term stability and predictability.
 
 ## Frontend Integration
 
 The React-based frontend serves as the user interface layer, providing real-time game state visualization and interaction capabilities. Key frontend components include:
 
 - **Web3 Integration**: Seamless wallet connection and transaction management through ethers.js, supporting MetaMask and other Web3 wallets.
-- **Real-time Updates**: Event-driven state management that synchronizes with blockchain events, ensuring users see current game status without manual refreshing.
 - **Interactive Game Board**: Visual representation of all 256 ticket positions with real-time status updates, filtering, and sorting capabilities.
 - **Marketplace Interface**: Direct integration with smart contract functions for listing, purchasing, and making offers on tickets.
 - **Multi-environment Support**: Automatic configuration switching between local development, testnet, and mainnet deployments.
