@@ -21,6 +21,7 @@
   - identify chat room services that lets user authentication be connected wallet
   - websocket
 
+#### **Upping  Bids**
 - **Target**: [q2 2026]
 - **Description**: Let users outbid each other with higher offers
 - **Tasks**:
