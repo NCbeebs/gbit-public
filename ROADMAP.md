@@ -20,3 +20,9 @@
 - **Tasks**:
   - identify chat room services that lets user authentication be connected wallet
   - websocket
+
+- **Target**: [q2 2026]
+- **Description**: Let users outbid each other with higher offers
+- **Tasks**:
+  - currently one offer on a ticket excludes other users from creating an offer on a ticket. If another users offers a higher amount, replace existing offer
+  - dependant on larger contract sizes
