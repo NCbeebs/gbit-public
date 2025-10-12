@@ -6,9 +6,11 @@
 
 ### ✅ Recently Completed
 - **[Deployed to Testnet]**: Arbitrum Sepolia
+- **[WebSocket Migration]**: will keep the frontend more tightly synced to blockchain state
+- **[Deployed to Testnet]**: Arbitrum Mainnet
 
 ### 🚀 In Progress
-- **[WebSocket Migration]**: will keep the frontend more tightly synced to blockchain state
+
 
 ## 📅 Short Term (2025)
 
